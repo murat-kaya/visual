@@ -1,0 +1,15 @@
+/home/mksecurity/HTB/Machines/Visual/bin/Debug/net6.0/Visual
+/home/mksecurity/HTB/Machines/Visual/bin/Debug/net6.0/Visual.deps.json
+/home/mksecurity/HTB/Machines/Visual/bin/Debug/net6.0/Visual.runtimeconfig.json
+/home/mksecurity/HTB/Machines/Visual/bin/Debug/net6.0/Visual.dll
+/home/mksecurity/HTB/Machines/Visual/bin/Debug/net6.0/Visual.pdb
+/home/mksecurity/HTB/Machines/Visual/obj/Debug/net6.0/Visual.csproj.AssemblyReference.cache
+/home/mksecurity/HTB/Machines/Visual/obj/Debug/net6.0/Visual.GeneratedMSBuildEditorConfig.editorconfig
+/home/mksecurity/HTB/Machines/Visual/obj/Debug/net6.0/Visual.AssemblyInfoInputs.cache
+/home/mksecurity/HTB/Machines/Visual/obj/Debug/net6.0/Visual.AssemblyInfo.cs
+/home/mksecurity/HTB/Machines/Visual/obj/Debug/net6.0/Visual.csproj.CoreCompileInputs.cache
+/home/mksecurity/HTB/Machines/Visual/obj/Debug/net6.0/Visual.dll
+/home/mksecurity/HTB/Machines/Visual/obj/Debug/net6.0/refint/Visual.dll
+/home/mksecurity/HTB/Machines/Visual/obj/Debug/net6.0/Visual.pdb
+/home/mksecurity/HTB/Machines/Visual/obj/Debug/net6.0/Visual.genruntimeconfig.cache
+/home/mksecurity/HTB/Machines/Visual/obj/Debug/net6.0/ref/Visual.dll

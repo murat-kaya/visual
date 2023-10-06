@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "8X2mailnk+M7aV66Pd2qamUH06OAFTod4ra+rv3M9r2V3CzdRSHtCmIreJw45fa2mJZfLNkDFtXCjj7sr4kJwQ==",
+  "success": true,
+  "projectFilePath": "/home/mksecurity/HTB/Machines/Visual/Visual.csproj",
+  "expectedPackageFiles": [
+    "/home/mksecurity/.nuget/packages/microsoft.netcore.app.ref/6.0.8/microsoft.netcore.app.ref.6.0.8.nupkg.sha512",
+    "/home/mksecurity/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.8/microsoft.aspnetcore.app.ref.6.0.8.nupkg.sha512",
+    "/home/mksecurity/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.8/microsoft.netcore.app.host.linux-x64.6.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
