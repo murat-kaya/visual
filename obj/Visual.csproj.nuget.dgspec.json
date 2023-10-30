@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/mksecurity/HTB/Machines/Visual/Visual.csproj": {}
+    "/home/mksecurity/HTB/Machines/Visual/repo-http/Visual.csproj": {}
   },
   "projects": {
-    "/home/mksecurity/HTB/Machines/Visual/Visual.csproj": {
+    "/home/mksecurity/HTB/Machines/Visual/repo-http/Visual.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/mksecurity/HTB/Machines/Visual/Visual.csproj",
+        "projectUniqueName": "/home/mksecurity/HTB/Machines/Visual/repo-http/Visual.csproj",
         "projectName": "Visual",
-        "projectPath": "/home/mksecurity/HTB/Machines/Visual/Visual.csproj",
+        "projectPath": "/home/mksecurity/HTB/Machines/Visual/repo-http/Visual.csproj",
         "packagesPath": "/home/mksecurity/.nuget/packages/",
-        "outputPath": "/home/mksecurity/HTB/Machines/Visual/obj/",
+        "outputPath": "/home/mksecurity/HTB/Machines/Visual/repo-http/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/mksecurity/.nuget/NuGet/NuGet.Config"
